@@ -1,0 +1,144 @@
+/* body */
+
+body{
+	background-color: rgb(135,206,250);
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+header{
+	height: 125px;
+	width: 1536px;
+	background-color: rgb(65,105,225);
+}
+h2{
+	padding-left: 8px;
+}
+
+footer{	
+	height: 140px;
+	width: 1536px;
+	background-color: rgb(65,105,225);
+	background-attachment: fixed;
+	background-position: bottom center;
+}
+
+
+/*home*/
+
+
+#sair{
+	color: white;
+}
+
+.consulta{ 
+	width: 278px;
+	margin-top: 50px;
+	margin-bottom: 15px;
+	color: white;
+	background-color: rgb(65,105,225);
+	font-size: 20px;
+	position: relative;
+	left: 40%;	
+}
+
+#cons_cursos{
+	float: left;
+	margin-left: 30%;
+    position: relative;
+	color: white;
+	background-color: rgb(65,105,225);
+	font-size: 25px;
+}
+
+#cons_alunos{
+	margin-left: 300px;
+    position: relative;
+	color: white;
+	background-color: rgb(65,105,225);
+	font-size: 25px;
+}
+
+#bemvindo{
+	margin-left: 10px;
+	position: relative;
+	font-size: 25px;
+	color: white;
+}
+
+
+/*index*/
+
+
+.login-box{
+	height: 180px;
+	width: 220px;
+	left: 43%;
+    position: relative;
+    margin-top: 154px;
+    margin-bottom: 154px;
+	color: white;
+	background-color: rgb(65,105,225);
+	font-size: 20px;
+}
+
+.login{
+	margin-left: 10px;
+padding-bottom: 10px;
+}
+
+.log{
+	margin-bottom: 10px;
+}
+
+
+/*cadastro*/
+
+
+.cad{
+	color: white;
+	font-size: 15px;
+}
+
+
+.cadastro{
+	
+	width: 278px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	color: white;
+	background-color: rgb(65,105,225);
+	font-size: 20px;
+	position: relative;
+	left: 43%;	
+}
+
+
+/*cons_alunos*/
+
+
+.tabela{
+	border: 1px solid black;
+	border-collapse: collapse;
+	left: 27%;
+	position: relative;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+.titulocelula{
+	border: 1px solid black;
+	padding: 4px;
+}
+.linha{
+
+}
+
+.linhacelula{
+	border: 1px solid black;
+	border-collapse: collapse;
+	padding: 3px;
+}
+
